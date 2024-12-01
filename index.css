@@ -1,0 +1,56 @@
+body {
+    background-image: url(https://img.freepik.com/free-vector/pink-green-background-design_23-2150304126.jpg?t=st=1733033960~exp=1733037560~hmac=58584da33ccaab1e18b949b3708d38810331b445a2e213910ca18543f6306f30&w=996);
+    background-size: cover;
+    height: 100hv;
+}
+
+.DIV1{
+    font-family: cursive;
+    color: rgb(92, 46, 241);
+    text-align: center;
+    background-color: aliceblue;
+    max-width: 80%;
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+.para{
+    color: rgb(244, 16, 77);
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 150px;
+    margin-bottom: 5px;
+    border-radius: 15px;
+}
+
+#increment-btn {
+    background: rgb(98, 185, 248);
+    font-family: cursive;
+}
+
+#save-btn {
+    background: rgb(20, 231, 20);
+    font-family: cursive;
+}
+
+#count-el{
+    color: rgb(228, 79, 15);
+}
